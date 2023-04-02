@@ -10,7 +10,7 @@ Android 시스템에서 4대 컴포넌트 모두 앱의 Entry Point가 될 수 �
 
 Activity의 상태에 따라 콜백 호출
 
-![img_1.png](img_1.png)
+<img src="https://static.javatpoint.com/images/androidimages/Android-Activity-Lifecycle.png"/>
 
 ### onCreate
 
@@ -137,7 +137,7 @@ ex) 오디오 앱에서 오디오 트랙을 재생할 때 현재 실행중이라
 - 포그라운드 서비스에서는 Notification을 무조건 표시해야함.
 - startForeground, stopForeground 메소드를 통해 포그라운드 서비스 시작, 중지
 
-![img_4.png](img_4.png)
+<img src="https://learn.microsoft.com/ko-kr/xamarin/android/app-fundamentals/services/foreground-services-images/foreground-services-02.png"/>
 
 ### Background Service
 
@@ -156,7 +156,7 @@ ex) 오디오 앱에서 오디오 트랙을 재생할 때 현재 실행중이라
 
 ## Service Lifecycle
 
-![img_3.png](img_3.png)
+<img src="https://t1.daumcdn.net/cfile/tistory/99170B3A5AA620F21B"/>
 
 서비스 수명 주기는 종류에 따라 2가지로 나뉨
 
@@ -178,7 +178,7 @@ ContentProvider는 다른 애플리케이션의 데이터에 접근이 필요할
 - 내 애플리케이션에서 다른 애플리케이션의 ContentProvider에 액세스
 - 내 애플리케이션에 ContentProvider를 구현하여 다른 애플리케이션에 데이터 공유
 
-![img_5.png](img_5.png)
+<img src="https://velog.velcdn.com/images/ows3090/post/a433ab34-e991-48b6-b329-609cb391043d/image.png"/>
 
 - ContentProvider에서 공유가 가능한 데이터는 데이터베이스, 파일 , SharedPreference 하지만 일반적으로 데이터베이스가 주로 사용
 - ContentProvider가 생성된 다른 애플리케이션의 데이터를 접근하기 위해서는 ContentResolver 객체 사용, ContentProvider와 서버-클라이언트 구조로 통신
