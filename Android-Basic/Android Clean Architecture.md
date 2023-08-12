@@ -3,7 +3,7 @@
 Created: 2023년 4월 9일 오후 5:10
 
 - 클린 아키텍처
-    <img src="%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%20%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5%20cfe762c241694d20b93e6e88a54a66e0/Untitled.png" width="350" height="250">
+    <img src="https://github.com/junwooYeom/Prography-8th-Android-Study/assets/50603005/54ce9bbd-aede-4c99-986b-fdb242144f35" width="350" height="250">
     
     - 외부 인터페이스에서 독립적으로 구현
     - 의존성 : 바깥쪽 원 → 안쪽 원
@@ -31,11 +31,12 @@ Created: 2023년 4월 9일 오후 5:10
     
 - 안드로이드 클린 아키텍처
     
-    <img src="%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%20%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5%20cfe762c241694d20b93e6e88a54a66e0/Untitled%201.png" width="200" height="200">
+    <img src="https://github.com/junwooYeom/Prography-8th-Android-Study/assets/50603005/cce89f79-fdc2-435b-9255-ee3d9b7e4ebb" width="200" height="200">
     
-    <img src="%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%20%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5%20cfe762c241694d20b93e6e88a54a66e0/Untitled%202.png" width="500" height="400">
+    <img src="https://github.com/junwooYeom/Prography-8th-Android-Study/assets/50603005/c1b39b30-428e-428c-adc0-fde1a7088031" width="500" height="400">
     
-    <img src="%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%20%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5%20cfe762c241694d20b93e6e88a54a66e0/Untitled%203.png" width="300" height="200">
+    <img src="https://github.com/junwooYeom/Prography-8th-Android-Study/assets/50603005/549e242f-a1b6-4a76-8518-e87f10e5213a" width="300" height="200">
+    
     
 
 - 프레젠테이션 계층 (Presentation Layer)
@@ -69,7 +70,7 @@ Created: 2023년 4월 9일 오후 5:10
         - 세부적으로 더 mapping 이 필요한 경우
         - mapping 하는 것도 비즈니스 로직일 수도 있기 때문에!
     
-    ![Untitled](%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%20%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5%20cfe762c241694d20b93e6e88a54a66e0/Untitled%204.png)
+    ![Untitled](https://github.com/junwooYeom/Prography-8th-Android-Study/assets/50603005/f1ba2041-00f1-4b96-b519-641e1c57e860)
     
 
 - 데이터 계층 (Data Layer)
